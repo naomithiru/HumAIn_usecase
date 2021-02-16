@@ -1,6 +1,6 @@
  #HumAIn_usecase
 
-<div style="text-align:center">**`XGBOOST TEAM MEMBERS`**
+<br>**`XGBOOST TEAM MEMBERS`**
 <br>~ Naomi Thiru **(Project Manager)**
 <br>~ Selma Esen
 <br>~ Sara Silvente
