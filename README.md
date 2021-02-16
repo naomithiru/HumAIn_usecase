@@ -1,11 +1,11 @@
  #HumAIn_usecase
-#**`XGBOOST TEAM MEMBERS`**
+**`XGBOOST TEAM MEMBERS`**
 
 
-### ~ Naomi Thiru **(Project Manager)**
-###~ Selma Esen
-###~ Sara Silvente
-###~ Dilara Parry
+~ Naomi Thiru **(Project Manager)**
+~ Selma Esen
+~ Sara Silvente
+~ Dilara Parry
 
 #``What is the project?``
 The XGBOOST team take on the HumAIn project is to develop a business tool for HumAIn to showcase the pre-COVID and post-COVID trends filtered by the industry. 
