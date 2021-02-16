@@ -35,9 +35,9 @@
 <br>*Model Initiation:*
 <br>??
 
-##*Visualization:*
-Using Wordclouds, clustering the AI trends regarding their respective industries is the last step before making the model ready for general use.
+<br>*Visualization:*
+<br>Using Wordclouds, clustering the AI trends regarding their respective industries is the last step before making the model ready for general use.
 
-#**4) Deployment:**
-After the NLP model and the wordclouds are ready to be presented, deployment is handled with ????. 
+<br>**4) Deployment:**
+<br>After the NLP model and the wordclouds are ready to be presented, deployment is handled with ????. 
 
