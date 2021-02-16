@@ -17,23 +17,23 @@
 <br>However, the presentation will include additional insight on the gathered data.
 
 # <br> ``Project Steps``
-<br>**1) Data Collecting (Parsing):**
+## <br>**1) Data Collecting (Parsing):**
 <br>News articles and research papers have been collected from numerous sources to build a sufficient model for the project.
 <br>###Libraries used: Beautifulsoup & Newspaper
 <br>###Raw data figure: (+/-3200,10)
 
-<br>**2) Data Preprocessing for NLP:**
-<br>*Data Labelling:*
+## <br>**2) Data Preprocessing for NLP:**
+### <br>*Data Labelling:*
 <br>In order to identify the trends and the industries efficiently, data labelling was a required step of the project. 
 
-<br>*Keyword Extraction:*
+### <br>*Keyword Extraction:*
 <br>From the parsed data, it is crucial to extract keywords to categorize the trends.
 
-<br>**3) Natural Language Processing:**
-<br>*Preprocessing:*
+## <br>**3) Natural Language Processing:**
+### <br>*Preprocessing:*
 <br>??
 
-<br>*Model Initiation:*
+### <br>*Model Initiation:*
 <br>??
 
 <br>*Visualization:*
