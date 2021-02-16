@@ -1,6 +1,6 @@
  #HumAIn_usecase
 
-# >**`XGBOOST TEAM MEMBERS`**
+# **`XGBOOST TEAM MEMBERS`**
 <br>• Naomi Thiru **(Project Manager)**
 <br>• Selma Esen
 <br>• Sara Silvente
