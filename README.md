@@ -23,20 +23,20 @@
 <br>###Raw data figure: (+/-3200,10)
 
 ## <br>**2) Data Preprocessing for NLP:**
-### <br>*Data Labelling:*
+### <br>*Ⓐ Data Labelling:*
 <br>In order to identify the trends and the industries efficiently, data labelling was a required step of the project. 
 
-### <br>*Keyword Extraction:*
+### <br>*Ⓑ Keyword Extraction:*
 <br>From the parsed data, it is crucial to extract keywords to categorize the trends.
 
 ## <br>**3) Natural Language Processing:**
-### <br>*Preprocessing:*
+### <br>*Ⓐ Preprocessing:*
 <br>??
 
-### <br>*Model Initiation:*
+### <br>*Ⓑ Model Initiation:*
 <br>??
 
-<br>*Visualization:*
+<br>*Ⓒ Visualization:*
 <br>Using Wordclouds, clustering the AI trends regarding their respective industries is the last step before making the model ready for general use.
 
 <br>**4) Deployment:**
