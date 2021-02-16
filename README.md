@@ -21,6 +21,7 @@
 <br>News articles and research papers have been collected from numerous sources to build a sufficient model for the project.
 <br>###Libraries used: Beautifulsoup & Newspaper
 <br>###Raw data figure: (+/-3200,10)
+
 <br>**2) Data Preprocessing for NLP:**
 <br>*Data Labelling:*
 <br>In order to identify the trends and the industries efficiently, data labelling was a required step of the project. 
