@@ -1,5 +1,5 @@
  #HumAIn_usecase
- 
+ <div align=”center”>
 <br>**`XGBOOST TEAM MEMBERS`**
 <br>~ Naomi Thiru **(Project Manager)**
 <br>~ Selma Esen
@@ -40,5 +40,5 @@
 <br>Using Wordclouds, clustering the AI trends regarding their respective industries is the last step before making the model ready for general use.
 
 <br>**4) Deployment:**
-<br>After the NLP model and the wordclouds are ready to be presented, deployment is handled with ????. 
+<br>After the NLP model and the wordclouds are ready to be presented, deployment is handled with ????.  </div>
 
