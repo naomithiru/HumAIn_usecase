@@ -36,7 +36,7 @@
 ### <br>*Ⓑ Model Initiation:*
 <br>??
 
-<br>*Ⓒ Visualization:*
+### <br>*Ⓒ Visualization:*
 <br>Using Wordclouds, clustering the AI trends regarding their respective industries is the last step before making the model ready for general use.
 
 ## <br>**4) Deployment:**
