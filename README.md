@@ -1,19 +1,22 @@
  #HumAIn_usecase
 <br>**`XGBOOST TEAM MEMBERS`**
 
-
 <br>~ Naomi Thiru **(Project Manager)**
 <br>~ Selma Esen
 <br>~ Sara Silvente
 <br>~ Dilara Parry
 
 <br>``What is the project?``
-<br>The XGBOOST team take on the HumAIn project is to develop a business tool for HumAIn to showcase the pre-COVID and post-COVID trends filtered by the industry. 
+
+<br>The XGBOOST team take on the HumAIn project is to develop a business tool for HumAIn to showcase the pre-COVID and post-COVID trends filtered by the industry.
+
 <br>``Who is the project for?``
 <br>It is directly for HumAIn to be used for their active or potential clientele.
+
 <br>``Business or Data Science Approach``
 <br>The finished product will be a business model web API that could be reached from anywhere in the world.
 <br>However, the presentation will include additional insight on the gathered data.
+<br> ``*Project Steps*``
 <br>**1) Data Collecting (Parsing):**
 News articles and research papers have been collected from numerous sources to build a sufficient model for the project.
 <br>###Libraries used: Beautifulsoup & Newspaper
