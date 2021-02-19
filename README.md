@@ -7,7 +7,7 @@
 <br>• Dilara Parry
 
 # <br>``What Is The Project?``
-<br>The XGBOOST team take on the HumAIn project is to make an explanatory analysis with data science approach for HumAIn to showcase the pre-COVID and post-COVID trends filtered by the industry.
+<br>The XGBOOST team take on the HumAIn project is to make an explanatory analysis with data science approach for HumAIn to showcase the pre-COVID and post-COVID trends filtered by the industry. Our goal is here to extract useful information from AI news between 1997 and 2021 to get AI usecase trends to lead new inwestments for businesses.
 
 # <br>``Who Is The Project For?``
 <br>It is directly for HumAIn to be used for their active or potential clientele.
