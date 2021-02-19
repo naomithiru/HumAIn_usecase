@@ -22,22 +22,28 @@
 <br>‣ Libraries used: Beautifulsoup & Newspaper
 <br>‣ Raw data figure: (+/-2200,10)
 
-## <br>**2) Data Preprocessing for NLP:**
-### <br>*Ⓐ Data Labelling:*
-<br>In order to identify the trends and the industries efficiently, data labelling was a required step of the project. 
+## <br>**2) The NLP Process:**
+### <br>*Ⓐ Data Preprocessing:*
+<br>We assembeled the data that we scraped different sources and made them clear and usable for our NLP process. 
+<br>In order to identify the trends and the industries efficiently, we ellimineted the stop words and tokenize the news texts. 
+
 
 ### <br>*Ⓑ Keyword Extraction:*
-<br>From the parsed data, it is crucial to extract keywords to categorize the trends.
+<br>From the parsed data, it is crucial to extract keywords to categorize the trends. We have used textrank method to extract the keywords and afterwards we have chacked keyword bigrams.
 
-## <br>**3) Natural Language Processing:**
-### <br>*Ⓐ Preprocessing:*
-<br>??
 
-### <br>*Ⓑ Model Initiation:*
-<br>??
+### <br>*Ⓒ Model Initiation:*
+<br>Our model is calculating the cosine similarities between the keywords and AI usecases and Indursries together. We have used for that process the pretrained NLP models. 
 
-### <br>*Ⓒ Visualization:*
-<br>Using Wordclouds, clustering the AI trends regarding their respective industries is the last step before making the model ready for general use.
+#### <br>*Used Libraries:*
+➼ nltk
+➼ flair
+➼ spacy
+➼ sklearn
+
+
+### <br>*Ⓓ Visualization:*
+<br>We have used Dash to create a Dashboard to show the AI trends in the pre and post Covid AI news. 
 
 ## <br>**4) Deployment:**
 <br>After the NLP model and the wordclouds are ready to be presented, deployment is handled with ????.  </div>
