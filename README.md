@@ -36,7 +36,7 @@
 <br>Our model is calculating the cosine similarities between the keywords and AI usecases and Indursries together. We have used for that process the pretrained NLP models. 
 
 #### <br>*Used Libraries:*
-<br> ➼ nltk
+➼ nltk
 <br> ➼ flair
 <br> ➼ spacy
 <br> ➼ sklearn
