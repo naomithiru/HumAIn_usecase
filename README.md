@@ -46,5 +46,5 @@
 <br>We have used Dash to create a Dashboard and Seaborn and Matplotlib to generate graphs to show the AI trends in the pre and post Covid AI news. 
 
 ## <br>**4) Deployment:**
-<br>After the NLP model and the wordclouds are ready to be presented, deployment is handled with https://aitrends.herokuapp.com/
+<br>After the results of the model are presented in a dashboard, deployment is handled with Heroku https://aitrends.herokuapp.com/
 
