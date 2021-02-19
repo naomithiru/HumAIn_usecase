@@ -7,14 +7,14 @@
 <br>• Dilara Parry
 
 # <br>``What Is The Project?``
-<br>The XGBOOST team take on the HumAIn project is to develop a business tool for HumAIn to showcase the pre-COVID and post-COVID trends filtered by the industry.
+<br>The XGBOOST team take on the HumAIn project is to make an explanatory analysis with data science approach for HumAIn to showcase the pre-COVID and post-COVID trends filtered by the industry.
 
 # <br>``Who Is The Project For?``
 <br>It is directly for HumAIn to be used for their active or potential clientele.
 
 # <br>``Business or Data Science Approach``
-<br>The finished product will be a business model web API that could be reached from anywhere in the world.
-<br>However, the presentation will include additional insight on the gathered data.
+<br>The finished product will offer a comprehensive analysis to get new business insights.
+<br>The graphs will be shown in the presentation.
 
 # <br> ``Project Steps``
 ## <br>**1) Data Collecting (Parsing):**
