@@ -1,20 +1,20 @@
  #HumAIn_usecase
 
 # **`XGBOOST TEAM MEMBERS`**
-<br>• Naomi Thiru **(Project Manager)**
-<br>• Selma Esen
-<br>• Sara Silvente
-<br>• Dilara Parry
+<br>• [Naomi Thiru](https://github.com/naomithiru) **(Project Manager)**
+<br>• [Selma Esen](https://github.com/selmaesen)
+<br>• [Sara Silvente](https://github.com/silventesa)
+<br>• [Dilara Parry](https://github.com/trickydaze)
 
 # <br>``What Is The Project?``
-<br>The XGBOOST team take on the HumAIn project is to make an explanatory analysis with data science approach for HumAIn to showcase the pre-COVID and post-COVID trends filtered by the industry. Our goal is here to extract useful information from AI news between 1997 and 2021 to get AI usecase trends to lead new inwestments for businesses.
+<br>The XGBOOST team approach on the HumAIn project is to make an exploratory analysis with data science approach for HumAIn to showcase the pre-COVID and post-COVID AI trends filtered by the industry. Our goal is here to extract useful information from AI news between 1997 and 2021 to get AI usecase trends to lead new investments for businesses.
 
 # <br>``Who Is The Project For?``
-<br>It is directly for HumAIn to be used for their active or potential clientele.
+<br>This product is designed to support HumAIn's Technology Evangelization vertical, to demonstrate to potential and/or ongoing clients the different AI trends, and usecases as they are currently adopted in various industries.
 
 # <br>``Business or Data Science Approach``
 <br>The finished product will offer a comprehensive analysis to get new business insights.
-<br>The graphs will be shown in the presentation.
+<br>The final results will be demonstrated on an interactive dashboard.
 
 # <br> ``Project Steps``
 ## <br>**1) Data Collecting (Parsing):**
